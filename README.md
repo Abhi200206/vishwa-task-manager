@@ -16,7 +16,7 @@ A robust and user-friendly task management application built with **Golang (Gin)
   * [Frontend Setup](#frontend-setup)
 * [Project Structure](#project-structure)
 * [Future Enhancements](#future-enhancements)
-* [License](#license)
+  
 
 ## Demo
 ![Screenshot 2025-05-11 141748](https://github.com/user-attachments/assets/06c76924-cc57-4a3e-b01e-7be2074169c0)
