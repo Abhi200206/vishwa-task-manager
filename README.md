@@ -15,7 +15,6 @@ A robust and user-friendly task management application built with **Golang (Gin)
   * [Backend Setup](#backend-setup)
   * [Frontend Setup](#frontend-setup)
 * [Project Structure](#project-structure)
-* [Future Enhancements](#future-enhancements)
   
 
 ## Demo
