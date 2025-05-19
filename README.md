@@ -31,7 +31,7 @@ A robust and user-friendly task management application built with **Golang (Gin)
 * Set task status: Pending or Completed
 * Assign due dates to tasks
 * Responsive and intuitive user interface
-* Robust error handling and validations([Readme Templates][1], [Make Read][2], [DEV Community][3], [DEV Community][4])
+* Robust error handling and validations
 
 ## Tech Stack
 
